@@ -1,0 +1,10 @@
+E:\Projetos\list-tasks\list-task\bin\Debug\list-task.exe.config
+E:\Projetos\list-tasks\list-task\bin\Debug\list-task.exe
+E:\Projetos\list-tasks\list-task\bin\Debug\list-task.pdb
+E:\Projetos\list-tasks\list-task\obj\Debug\list-task.csproj.AssemblyReference.cache
+E:\Projetos\list-tasks\list-task\obj\Debug\list_task.Properties.Resources.resources
+E:\Projetos\list-tasks\list-task\obj\Debug\list-task.csproj.GenerateResource.cache
+E:\Projetos\list-tasks\list-task\obj\Debug\list-task.csproj.CoreCompileInputs.cache
+E:\Projetos\list-tasks\list-task\obj\Debug\list-task.exe
+E:\Projetos\list-tasks\list-task\obj\Debug\list-task.pdb
+E:\Projetos\list-tasks\list-task\obj\Debug\list_task.Main.resources
